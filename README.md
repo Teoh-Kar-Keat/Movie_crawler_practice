@@ -5,12 +5,16 @@
 本作業的目標是透過 Python 建立一個具備自動化爬蟲能力的程式，能夠依序讀取網站 [**https://ssr1.scrape.center/**](https://ssr1.scrape.center/) 的 10 頁電影資料，解析其中的電影名稱、圖片 URL、評分與類型，並將其整合為 CSV 資料集，以便後續分析或機器學習模型使用。
 
 此專案示範了網路爬蟲常見的實作流程，包括 HTTP 請求、HTML 解析、資料清洗與格式化輸出。
+
+
 ---
-<img width="594" height="666" alt="image" src="https://github.com/user-attachments/assets/fb08840e-4a49-43ad-aa41-c2dec5043a30" />
+
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/fb08840e-4a49-43ad-aa41-c2dec5043a30" />
 
 <img width="1630" height="780" alt="image" src="https://github.com/user-attachments/assets/4c3361c1-0688-4312-b175-a0d05309b4c8" />
 
 
+---
 ## 2. 目標網站介紹
 
 📌 **Scrape Center** 是一個專門用來練習爬蟲的示範網站。
