@@ -6,6 +6,8 @@
 
 此專案示範了網路爬蟲常見的實作流程，包括 HTTP 請求、HTML 解析、資料清洗與格式化輸出。
 
+專案開發流程 ：https://github.com/Teoh-Kar-Keat/Movie_crawler_practice/blob/main/Chatpdf-%E7%88%AC%E5%8F%96%E9%9B%BB%E5%BD%B1%E8%B3%87%E6%96%99.pdf
+
 
 ---
 
